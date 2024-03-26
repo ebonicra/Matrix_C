@@ -1,6 +1,5 @@
-# s21_matrix
+# Matrix_C
 
-## Part 1. Реализация функции библиотеки matrix.h
 
 Реализовать основные действия с матрицами: create_matrix (создание), remove_matrix (очистка и уничтожение), eq_matrix (сравнение), sum_matrix (сложение), sub_matrix (вычитание), mult_matrix (умножение), mult_number (умножение на число), transpose (транспонирование), determinant (вычисление определителя), calc_complements (вычисление матрицы алгребраический дополнений), inverse_matrix (поиск обратной матрицы). 
 
